@@ -14,4 +14,12 @@
     - [简介及安装](gitlab-ci/gitlab-ci-1.md)
     - [入门篇](gitlab-ci/gitlab-ci-2.md)
 
-- 扯淡杂谈
+- 刻意练习
+
+    - 作者：`安德斯·艾利克森`（Anders Ericsson）、`罗伯特·普尔`(Robert Pool)
+    
+    - [有目的的练习](book/peak.md)
+    
+    - [大脑的适应能力]()
+    
+    - [心理表征]()
