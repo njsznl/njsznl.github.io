@@ -46,14 +46,10 @@
         },
         plugins: [
             EditOnGithubPlugin.create(
-                'http://github.com/keveon/njsznl.github.io/blob/master/'
+                'http://github.com/njsznl/njsznl.github.io/blob/master/'
             ),
             function (hook, vm) {
                 hook.beforeEach(function (html) {
-                  // var coptright = '<p>Powered by <a href="https://keveon.me" target="_blank" style="font-weight:bold">Keveon</a></p>'
-                  // return html
-                      // + '\n----\n'
-                      // + coptright
                 })
             }
         ]
